@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.Cell_color{
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+
+.Cell_none{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(193, 12, 238);
+}
